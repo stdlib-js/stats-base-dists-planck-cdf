@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-30)
+## Unreleased (2026-01-26)
 
 <section class="features">
 
@@ -35,6 +35,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`c404057`](https://github.com/stdlib-js/stdlib/commit/c4040575dcca6cc615621c9a3b1dc3eb0ff18f6d) - **bench:** update random value generation [(#9820)](https://github.com/stdlib-js/stdlib/pull/9820) _(by Harsh Yadav)_
 -   [`6d64a34`](https://github.com/stdlib-js/stdlib/commit/6d64a344071e5e7afd0a8500cc27bee493d6e439) - **docs:** replace manual `for` loop in examples [(#9439)](https://github.com/stdlib-js/stdlib/pull/9439) _(by Harsh Yadav, Athan Reines)_
 -   [`47088cc`](https://github.com/stdlib-js/stdlib/commit/47088cc299d84289a904dd2e7d2cdf0aee9057aa) - **docs:** fix TSDoc comments example code and return annotation values _(by Philipp Burckhardt)_
 -   [`4589cee`](https://github.com/stdlib-js/stdlib/commit/4589cee4e69b2a4c4a433321f413824a69eebb6e) - **docs:** fix return annotation values _(by Philipp Burckhardt)_
