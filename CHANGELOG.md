@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-09-30)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`51b97d8`](https://github.com/stdlib-js/stdlib/commit/51b97d8af0e4062a7f264a6978220bf0a225a4c1) - **test:** migrate `stats/base/dists/planck/cdf` to ULP-based assertions [(#15650)](https://github.com/stdlib-js/stdlib/pull/15650) _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
